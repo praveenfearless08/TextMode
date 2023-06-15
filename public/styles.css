@@ -1,0 +1,22 @@
+h1{
+    font-size: 30px;
+    margin-top: 50px;
+    font-weight: 900;
+
+}
+h2{
+    font-size: 20px;
+}
+p{
+font-size: 13px;
+}
+body{
+    font-family: sans-serif;
+    text-align: center;
+}
+a li{
+    font-size: 20px;
+}
+.accordion-button::after {
+    filter: invert(1);
+}
